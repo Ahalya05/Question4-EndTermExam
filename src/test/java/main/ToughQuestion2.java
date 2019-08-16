@@ -3,7 +3,7 @@ package main;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
+import org.junit.Test;
 public class ToughQuestion2 {
 	Account a = new Account(1,"venkat","current",5000);
 	@SuppressWarnings("static-access")
